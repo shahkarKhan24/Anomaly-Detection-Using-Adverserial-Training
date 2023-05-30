@@ -31,6 +31,9 @@
 </p>
 
 
-
+<h4>Dataset and Preprocessing</h4>
+<p>We use well-known Fashion-MNIST dataset for our experiments, it consists of 28×28 grayscale images of 70,000 fashion products from 10 categories, with 7,000 images per category. The training set has 60,000 images and the test set has 10,000 images. Fashion-MNIST shares the same image size, data format and the structure of training and testing splits with the original MNIST.
+To design an anomaly detection algorithm, what we did is that we need to keep on class of the dataset as normal data and rest of the classes of the dataset as anomaly. For instance, we consider class 0 of Fashion-MNIST data set i.e., “Shirt” a normal class and rest of the classes of the dataset as anomaly data. This setup give rise to another problem during training that might be the distribution between normal data and anomaly data because the quantity of anomaly dataset is way more than normal to solve this problem after some research on internet we use data sampling technique which try to distribute the batches equally during training between normal class and anomaly class
+</p>
 
 
