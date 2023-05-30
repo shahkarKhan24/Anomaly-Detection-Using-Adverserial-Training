@@ -1,6 +1,6 @@
 # Anomaly-Detection-Using-Different Approaches in ImBalance Dataset
-<h2> SOTA Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</h2>
+<h3> SOTA Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</h3>
 <h2> Additional Non-Sota Technique <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h2>
 <h2> Baseline Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
