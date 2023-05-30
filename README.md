@@ -1,4 +1,4 @@
-# Anomaly-Detection-Using-Different Approaches in ImBalance Dataset
+# Anomaly Detection Using Different Approaches In Imbalance Dataset
 
 <h3> Baseline Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
