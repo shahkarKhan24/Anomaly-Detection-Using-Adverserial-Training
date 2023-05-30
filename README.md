@@ -1,10 +1,11 @@
 # Anomaly-Detection-Using-Different Approaches in ImBalance Dataset
 <h3> SOTA Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
-<h2> Additional Non-Sota Technique <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</h2>
-<h2> Baseline Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</h2>
+<p> We tried the method that was described in the sota paper[1]. Which is also a Generative Adversarial Network (GAN) based architecture consist of a generator and two separate discriminators. Generator model is just like a simple U-net or an autoencoder and discriminator is a decoder like network.We try to minimize the reconstruction loss for normal data and maximize the reconstruction loss for Anomaly data, also a couple of different loss functions were introduced</p>
+<h3> Additional Non-Sota Technique <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</h3>
+<h3> Baseline Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</h3>
 
  <div>
 
