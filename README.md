@@ -14,7 +14,7 @@
 
 
 
-<h3> SOTA Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<h3> SOTA Technique <a href="https://colab.research.google.com/github/shahkarKhan24/Anomaly-Detection-Using-Adverserial-Training/blob/main/DL_Sota_PyLightning.ipynb?authuser=1" > <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
 <p> We tried the method that was described in the sota paper[1]. Which is also a Generative Adversarial Network (GAN) based architecture consist of a generator and two separate discriminators. Generator model is just like a simple U-net or an autoencoder and discriminator is a decoder like network.We try to minimize the reconstruction loss for normal data and maximize the reconstruction loss for Anomaly data, also a couple of different loss functions were introduced
  
