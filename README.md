@@ -1,4 +1,7 @@
 # Anomaly Detection Using Different Approaches In Imbalance Dataset
+1) Baseline (Auto-Encoder)
+2) Sota 
+3) GAN Base (Non-Sota)
 
 <h3> Baseline Technique <a href= "https://colab.research.google.com/github/shahkarKhan24/Anomaly-Detection-Using-Adverserial-Training/blob/main/DL_Baseline_Non_Sota_PyLightning.ipynb?authuser=1">   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
