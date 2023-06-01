@@ -1,6 +1,6 @@
 # Anomaly Detection Using Different Approaches In Imbalance Dataset
 
-<h3> Baseline Technique<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<h3> Baseline Technique <a href= "https://colab.research.google.com/github/shahkarKhan24/Anomaly-Detection-Using-Adverserial-Training/blob/main/DL_Baseline_Non_Sota_PyLightning.ipynb?authuser=1">   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
 <p>The first method that we tried was using an autoencoder, Autoencoder is an unsupervised learning technique for neural networks that learns efficient data encoding by training the network to ignore signal noise. It simply consist of a simple encoder decoder network that when given an input image tries to reconstruct out the same image with minimum reconstruction loss.
  <div>
