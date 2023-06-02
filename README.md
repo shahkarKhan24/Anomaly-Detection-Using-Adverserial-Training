@@ -24,7 +24,7 @@
 </p>
 
 
-<h3> Additional Non-Sota Technique <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<h3> Additional Non-Sota Technique <a href="https://colab.research.google.com/github/shahkarKhan24/Anomaly-Detection-Using-Adverserial-Training/blob/main/Additional_non_Sota_(GAN%20Based).ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </h3>
 <p>The next method we tried was using GAN model which consist of simple generator and discriminator architecture. The generator's job is to create realistic-looking data, such as images, while the discriminator's role is to distinguish between real and fake data. The discriminator basically takes this generated sample and tries to determine if it's real or fake. The generator aims to generate samples that the discriminator cannot distinguish as fake, while the discriminator tries to become better at identifying fake samples. This back-and-forth training continues until the generator becomes skilled at producing realistic data that can fool the discriminator into thinking it's real.
  
