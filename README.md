@@ -39,4 +39,15 @@
 To design an anomaly detection algorithm, what we did is that we need to keep on class of the dataset as normal data and rest of the classes of the dataset as anomaly. For instance, we consider class 0 of Fashion-MNIST data set i.e., “Shirt” a normal class and rest of the classes of the dataset as anomaly data. This setup give rise to another problem during training that might be the distribution between normal data and anomaly data because the quantity of anomaly dataset is way more than normal to solve this problem after some research on internet we use data sampling technique which try to distribute the batches equally during training between normal class and anomaly class
 </p>
 
-
+<h4>Normal Data</h4>
+<p>Class 0: "T-Shirt" </p>
+<h4>Anomaly Data</h4>
+<p>Class 1: "Trouser",
+   Class 2: "Pullover",
+   Class 3: "Dress",
+   Class 4: "Coat",
+   Class 5: "Sandal",
+   Class 6: "Shirt",
+   Class 7: "Sneaker",
+   Class 8: "Bag",
+   Class 9: "Ankle Boot"</p>
