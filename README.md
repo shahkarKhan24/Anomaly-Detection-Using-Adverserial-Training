@@ -42,20 +42,12 @@ To design an anomaly detection algorithm, what we did is that we need to keep on
 <h4>Normal Data</h4>
 <p>Class 0: "T-Shirt" </p>
 <h4>Anomaly Data</h4>
-<p>Class 1: "Trouser"
- 
-   Class 2: "Pullover",
- 
-   Class 3: "Dress",
- 
-   Class 4: "Coat",
- 
-   Class 5: "Sandal",
- 
-   Class 6: "Shirt",
- 
-   Class 7: "Sneaker",
- 
-   Class 8: "Bag",
- 
+<p>Class 1: "Trouser" 
+   Class 2: "Pullover", 
+   Class 3: "Dress", 
+   Class 4: "Coat", 
+   Class 5: "Sandal", 
+   Class 6: "Shirt", 
+   Class 7: "Sneaker", 
+   Class 8: "Bag", 
    Class 9: "Ankle Boot"</p>
