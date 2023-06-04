@@ -1,5 +1,5 @@
 # Anomaly Detection Using Different Approaches In Imbalance Dataset
-There are three saparate colab notebook for each approch , link f the notebook can be found next to the title.
+There are three saparate colab notebook for each approch , link of the notebook can be found next to the title.
 1) Baseline (Auto-Encoder)
 2) Sota 
 3) GAN Base (Non-Sota)
