@@ -52,3 +52,7 @@ To design an anomaly detection algorithm, what we did is that we need to keep on
    Class 7: "Sneaker", 
    Class 8: "Bag", 
    Class 9: "Ankle Boot"</p>
+   
+<div>
+<img src="https://github.com/shahkarKhan24/Anomaly-Detection-Using-Adverserial-Training/blob/main/Images/dataset.jpg?raw=true" width="600" alt="dataset split"/>
+</div>
